@@ -113,7 +113,54 @@ ini adalah tag Bagaimana Menambahkan foti Kedalam html yaitu dengan menggunakan 
 </body>
 </html>
 ```
+## Menambahkan Link
+![Menambahkan_link](img/Menambahkan_link.png)
 
+Untuk menambahkan Link menggunakan (img) dan simpan dalam folder yang sesuai
+
+## Contoh Kode
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tag Dasar HTML</title>
+</head>
+<body>
+<!-- Menambahkkan link Navigasi  -->
+<nav>
+<a href="tag_Dasar.html">Dasar html </a>
+<a href="halaman2.html">halaman2</a>
+<a href="https://github.com/MuhammadRifaiAditiya/Lab1Web">halaman web ekternal google</a>
+<hr>
+</nav>
+<!-- Judul Paragraf Pertama -->
+<h1>Belajar Dasar Html</h1>
+<!-- Paragraf Pertama -->
+<p align="center">Saya Adalah  <Span style="background-color: red;">Mahsiswa Universitas Pelita Bangsa Jurisan
+    Teknik Informatika </Span> 
+<!-- Judul Paragraf kedua -->
+<h2>Paragraf Pada Html</h2>
+<!-- Paragraf Kedua -->
+<p align="right">Html Sendiri Adalah <b>Struktur</b>  atau kerangka dalam <u>membuat website</u> 
+     yang terdiri anak head dan <i>tag penutup html </i></p>                                                        
+<!-- Sub Judul Paragraf -->
+<h3>Menambahkan Gambar</h3>   
+<!-- Menambahkan gambar pada Paragraf -->
+<img src="img/Menambahkan_gambar.png" alt="Logo Upb" title="Universitas Pelita Bangsa">
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+```
 
 
 
